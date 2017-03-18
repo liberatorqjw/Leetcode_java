@@ -47,4 +47,9 @@ public class WordPattern {
         }
         return true;
     }
+
+    public static void main(String[] args) {
+        char c = ']';
+        System.out.println(92 - c);
+    }
 }
